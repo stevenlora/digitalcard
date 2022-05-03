@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Steven;Kramer;;;
+N:Kramer;Steven;;;
 FN: Steven  Kramer 
 ORG:GovTech;
 TITLE:LoRa LoRa LoRa
 EMAIL;type=INTERNET;type=WORK;type=pref:steven@restotracker.com
-TEL;type=WORK;type=VOICE:+65 9123 4567
+TEL;type=WORK;type=VOICE:+1 (305)457-3838
 item1.ADR;type=WORK;type=pref:;;4013 NW 72nd Ave\nCoral Spring\, ;;;;33065;Florida
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.SimplyConnectedDevices.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
